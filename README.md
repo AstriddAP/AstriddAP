@@ -24,6 +24,5 @@ También: PHP · FastAPI · Render · Vercel
 |---|---|---|
 | **Gestión Logística y Transporte** | Sistema web/móvil multitenant (multiempresa) para control de combustible, viajes, viáticos, gastos de maestranza y liquidaciones. Múltiples perfiles (conductores y administradores). | Java · Spring Boot · Docker · PostgreSQL |
 | **Talky (Signlink)** | App en Play Store con IA para personas con discapacidad auditiva. Incluye transcriptor de audios de WhatsApp, texto a voz, diccionario de señas, mensajes rápidos y geolocalización de servicios. | Android · Kotlin · IA |
-| **proyecto-ia-backend** | Servicios de backend para funciones de inteligencia artificial. | Python |
 
 ---
